@@ -10,12 +10,12 @@
 
 
 #define nginx_version      1017003
-#define NGINX_VERSION      "1.17.3"
-#define NGINX_VER          "nginx/" NGINX_VERSION
+#define NGINX_VERSION      "6.6.6"
+#define NGINX_VER          "webserver/" NGINX_VERSION
 
-#define TENGINE            "Tengine"
+#define TENGINE            "webserser"
 #define tengine_version    2003002
-#define TENGINE_VERSION    "2.3.2"
+#define TENGINE_VERSION    "6.6.6"
 #define TENGINE_VER        TENGINE "/" TENGINE_VERSION
 
 #ifdef NGX_BUILD
