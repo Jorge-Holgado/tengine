@@ -6,6 +6,8 @@ Tengine is a web server originated by [Taobao](http://en.wikipedia.org/wiki/Taob
 
 Tengine has been an open source project since December 2011. It is being actively developed by the Tengine team, whose core members are from Taobao, Sogou and other Internet companies. Tengine is a community effort and everyone is encouraged to [get involved](https://github.com/alibaba/tengine).
 
+Jorge-Holgado mod: Removed server tokens hardway...
+
 Features
 ========
 
